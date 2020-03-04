@@ -1,0 +1,13 @@
+C:\Univ\comp_sys\lab_2\t3\bin\Debug\t3.exe.config
+C:\Univ\comp_sys\lab_2\t3\bin\Debug\t3.exe
+C:\Univ\comp_sys\lab_2\t3\bin\Debug\t3.pdb
+C:\Univ\comp_sys\lab_2\t3\obj\Debug\t3.csprojAssemblyReference.cache
+C:\Univ\comp_sys\lab_2\t3\obj\Debug\t3.csproj.CoreCompileInputs.cache
+C:\Univ\comp_sys\lab_2\t3\obj\Debug\t3.exe
+C:\Univ\comp_sys\lab_2\t3\obj\Debug\t3.pdb
+C:\Users\dima1\Desktop\t3\bin\Debug\t3.exe.config
+C:\Users\dima1\Desktop\t3\bin\Debug\t3.exe
+C:\Users\dima1\Desktop\t3\bin\Debug\t3.pdb
+C:\Users\dima1\Desktop\t3\obj\Debug\t3.csprojAssemblyReference.cache
+C:\Users\dima1\Desktop\t3\obj\Debug\t3.exe
+C:\Users\dima1\Desktop\t3\obj\Debug\t3.pdb
